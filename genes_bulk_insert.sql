@@ -1,0 +1,15 @@
+INSERT INTO GENE (gene_symbol, gene_name, entrez_id) VALUES ('TP53', NULL, NULL);
+INSERT INTO GENE (gene_symbol, gene_name, entrez_id) VALUES ('BRCA1', NULL, NULL);
+INSERT INTO GENE (gene_symbol, gene_name, entrez_id) VALUES ('ATM', NULL, NULL);
+INSERT INTO GENE (gene_symbol, gene_name, entrez_id) VALUES ('RAD51', NULL, NULL);
+INSERT INTO GENE (gene_symbol, gene_name, entrez_id) VALUES ('CHEK2', NULL, NULL);
+INSERT INTO GENE (gene_symbol, gene_name, entrez_id) VALUES ('NBN', NULL, NULL);
+INSERT INTO GENE (gene_symbol, gene_name, entrez_id) VALUES ('XRCC1', NULL, NULL);
+INSERT INTO GENE (gene_symbol, gene_name, entrez_id) VALUES ('FANCD2', NULL, NULL);
+INSERT INTO GENE (gene_symbol, gene_name, entrez_id) VALUES ('RAD52', NULL, NULL);
+INSERT INTO GENE (gene_symbol, gene_name, entrez_id) VALUES ('MLH1', NULL, NULL);
+INSERT INTO GENE (gene_symbol, gene_name, entrez_id) VALUES ('MRE11A', NULL, NULL);
+INSERT INTO GENE (gene_symbol, gene_name, entrez_id) VALUES ('CDKN1A', NULL, NULL);
+INSERT INTO GENE (gene_symbol, gene_name, entrez_id) VALUES ('GADD45A', NULL, NULL);
+INSERT INTO GENE (gene_symbol, gene_name, entrez_id) VALUES ('BAX', NULL, NULL);
+INSERT INTO GENE (gene_symbol, gene_name, entrez_id) VALUES ('BCL2', NULL, NULL);
