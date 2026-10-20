@@ -1,0 +1,12 @@
+INSERT INTO CANCER_TYPE (cancer_id, cancer_name) VALUES (1, 'Cervical Cancer');
+INSERT INTO CANCER_TYPE (cancer_id, cancer_name) VALUES (2, 'Lung Cancer');
+INSERT INTO CANCER_TYPE (cancer_id, cancer_name) VALUES (3, 'Prostate Cancer');
+INSERT INTO CANCER_TYPE (cancer_id, cancer_name) VALUES (4, 'Breast Cancer');
+INSERT INTO CANCER_TYPE (cancer_id, cancer_name) VALUES (5, 'Sarcoma');
+INSERT INTO CANCER_TYPE (cancer_id, cancer_name) VALUES (6, 'Colorectal Cancer');
+INSERT INTO CANCER_TYPE (cancer_id, cancer_name) VALUES (7, 'Melanoma');
+INSERT INTO CANCER_TYPE (cancer_id, cancer_name) VALUES (8, 'Ovarian Cancer');
+INSERT INTO CANCER_TYPE (cancer_id, cancer_name) VALUES (9, 'Head and Neck Cancer');
+INSERT INTO CANCER_TYPE (cancer_id, cancer_name) VALUES (10, 'Glioblastoma');
+INSERT INTO CANCER_TYPE (cancer_id, cancer_name) VALUES (11, 'Pancreatic Cancer');
+INSERT INTO CANCER_TYPE (cancer_id, cancer_name) VALUES (12, 'Leukemia');
